@@ -1,4 +1,20 @@
-Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-Et recusandae hic odit eveniet ut dolorum voluptatem dolorem 
-consectetur! Quasi ex delectus, possimus facere atque enim ad laborum odio neque ducimus.
+initialiser le depot git 
+
+> git init
+
+Voir les photos (status)
+
+> git status
+
+Ajouter les modif 
+
+> git add -A ou --all
+
+Faire un commit (transporter ou appliquer les modifs)
+
+> git commit -m "message"
+
+> git commit --amend --no-edit  # Ajouter les modif a un commit 
+
+
     
