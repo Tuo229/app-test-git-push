@@ -44,7 +44,12 @@ faire un push
 
 > git remote add origin lien 
 > git branch -M main
-> git push -u origin main
+> git push -u origin main   # cela se fait une seul fois
+> git push    #toute qu'on voudra faire un push après la première fois
+
+recuperer un depot distant 
+
+> git clone lien_depot nouveauNom #si necessaire
 
 
 
