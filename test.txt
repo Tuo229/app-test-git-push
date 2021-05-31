@@ -16,5 +16,24 @@ Faire un commit (transporter ou appliquer les modifs)
 
 > git commit --amend --no-edit  # Ajouter les modif a un commit 
 
+Les branches
+
+> git branch "nombranch" # Creer un nouvelle branche
+
+> git checkout -b nombranche  #creer un nouvelle branche et se mettre sur la branche
+
+> git checkout nombranch  # pour changer de branche
+
+> git checkout -D nombranch  # suppression de branche
+
+> git merge nombranche  # Fusion une branche avec la branche principale
+
+Voir les differences entre un fichier et ses precedents
+
+> git diff 'nomfichier'
+
+
+
+
 
     
