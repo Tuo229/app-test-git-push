@@ -24,13 +24,17 @@ Les branches
 
 > git checkout nombranch  # pour changer de branche
 
-> git checkout -D nombranch  # suppression de branche
+> git checkout -d nombranch  # suppression de branche
 
 > git merge nombranche  # Fusion une branche avec la branche principale
 
 Voir les differences entre un fichier et ses precedents
 
 > git diff 'nomfichier'
+
+Voir les commit 
+
+> git log  | git log --oneline | git log --graph | git log --oneline --graph
 
 
 
