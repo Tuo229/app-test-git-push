@@ -36,6 +36,16 @@ Voir les commit
 
 > git log  | git log --oneline | git log --graph | git log --oneline --graph
 
+aleas
+
+> git config --global alias.s status   # un exemple d'alias
+
+faire un push 
+
+> git remote add origin lien 
+> git branch -M main
+> git push -u origin main
+
 
 
 
