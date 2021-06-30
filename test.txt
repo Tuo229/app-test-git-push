@@ -51,6 +51,10 @@ recuperer un depot distant
 
 > git clone lien_depot nouveauNom #si necessaire
 
+Modifier l'url du remote
+
+> git remote set-url origin lien
+
 
 
 
