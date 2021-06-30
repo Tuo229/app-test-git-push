@@ -55,6 +55,10 @@ Modifier l'url du remote
 
 > git remote set-url origin lien
 
+Recuperer les modifier d'un repository distant avec git pull
+
+> git pull
+
 
 
 
